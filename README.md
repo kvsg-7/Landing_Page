@@ -17,6 +17,8 @@ This is a simple yet visually appealing landing page built using **HTML, CSS, an
 - **CSS3**: For styling and layout design.
 - **Flexbox**: For creating a responsive and flexible layout.
 
+![Screenshot](Result.jpeg)
+
 ## Folder Structure
 ```
 /landing-page
