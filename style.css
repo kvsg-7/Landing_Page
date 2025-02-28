@@ -34,6 +34,7 @@ ul{
     flex-basis: 350px;
     padding: 16px;
     background-color: #1f2937;
+    justify-content: space-between;
     display: flex;
 }
 
@@ -73,7 +74,7 @@ ul{
     height: 250px;
     color: white;
     width: 535px;
-    margin-left: 70px;
+    margin-right: 140px;
     background-color: rgba(116, 116, 116, 0.562);
 }
 
